@@ -1,0 +1,8 @@
+Microsoft Windows [Version 10.0.22621.2283]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\kdpsu>java --v
+'java' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\kdpsu>
